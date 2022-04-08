@@ -6,6 +6,7 @@
 //  Copyright © 2019 Angela Yu. All rights reserved.
 //
 // Main Controller
+// add new line
 import UIKit
 import CLTypingLabel
 
